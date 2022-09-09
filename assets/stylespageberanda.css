@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: whitesmoke;
+  font-family:'Fjalla One', sans-serif;;
+}
+
+/* .container {
+  width: 540px;
+  height: auto;
+  margin-right: 600px;
+  background-color: black;
+} */
+
+header {
+  height: 60px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.255);
+  background-color: white;
+}
+
+header nav {
+  align-items: center;
+  padding: 7px;
+  margin-right: 7px;
+}
+
+div ul li a {
+  width: 70%;
+  text-decoration: none;
+  color: black;
+}
+
+div .input {
+  border-radius: 8px;
+  background-color: rgba(128, 128, 128, 0.115);
+  padding-left: 9px;
+  display: flex;
+  align-items: center;
+}
+
+.nameuser {
+  font-size: 12px;
+  margin-left: 5px;
+}
+
+.fontig {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.hdpost {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.posts {
+  width: 293px;
+  height: 293px;
+}
+
+footer div a {
+  font-size: small;
+  color: rgb(128, 128, 128)
+}
